@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(196, 91, 91), rgb(100, 59, 59));
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.zeraomaconha{
+    text-align: center;
+}
+.samba{
+    text-align: center;
+    border-style: double;
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    background-image: linear-gradient(to bottom, rgb(228, 128, 128), rgb(122, 65, 65));
+}
+input{
+    background-color: rgb(238, 108, 108);
+    border-radius: 10px;
+    text-align: center;
+    font-size: medium;
+    width: 200px;
+    height: 40px;
+}
+button{
+    background-color: rgb(238, 108, 108);
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+}
+button:hover{
+    background-image:linear-gradient(to bottom, rgb(165, 149, 149)rgb(223, 241, 215)8)   
+}
